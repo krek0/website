@@ -10,4 +10,4 @@ My personal website source, built with hugo.
   See the [LICENSE2](LICENSE2) file for details.
   
 
-The following pages are licensed under CC BY-NC-ND:
+The following contents are licensed under CC BY-NC-ND:
