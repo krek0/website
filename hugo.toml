@@ -1,0 +1,56 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Hadrien Ferlin'
+theme = 'typo'
+
+[params]
+description = "Mon site personel"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroContent = """
+# Bonjour, bienvenue sur mon site internet
+Je suis Hadrien Ferlin, un étudiant de 19 ans en classe préparatoire MPI au Lycée Thiers à Marseille.
+# Contacts
+- 📭 Mail [hadrien.ferlin@posteo.net](mailto:hadrien.ferlin@posteo.net)
+
+- 💾 Github [Krek0](https://github.com/krek0)
+
+"""
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = false
+
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
