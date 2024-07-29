@@ -40,10 +40,16 @@ url = "/"
 name = "about"
 url = "/about"
 
+[[params.menu]]
+name = "livres"
+url = "/livres"
+
 # Syntax highligth on code blocks
 [markup]
 [markup.highlight]
 style = 'algol'
+[markup.goldmark.renderer]
+unsafe= true
 
 # Giscus comments
 [params.giscus]

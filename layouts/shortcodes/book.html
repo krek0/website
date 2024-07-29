@@ -1,0 +1,6 @@
+<div class="flex">
+  <img src={{ .Get "src" }} width=100px>
+  <p>{{ .Get "title" | .Page.RenderString }}</p>
+</div>
+<p>{{ .Inner | .Page.RenderString }}</p>
+

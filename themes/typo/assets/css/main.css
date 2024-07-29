@@ -431,25 +431,8 @@ footer a {
   display: none !important;
 }
 
-.img-small div {
+.flex {
   display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.img-small img {
-  scale: 80%;
-}
-
-.img-full div {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.img-full img {
-  width: 100vw !important;
-  max-width: 100vw !important;
 }
 
 .caption-container {
