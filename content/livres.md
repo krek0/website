@@ -3,9 +3,9 @@ title: "Livres"
 ---
 
 
-En construction
+**En construction**
 
-Une liste des livres d'informatique ou des maths que j'ai apprécié et que les livres que je prevois de lire.
+Une liste des livres d'informatique ou des maths que j'ai appréciés ou que je prevois de lire.
 
 # J'ai lu
 
