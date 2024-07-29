@@ -9,7 +9,7 @@ Une liste des livres d'informatique ou des maths que j'ai aimé ou que je prevoi
 
 # J'ai lu
 
-# En lecture
+# En train de lire
 {{<book src="calculabilite.jpg" title="***Calculabilité*** par [Benoît Monin](https://www.lacl.fr/~benoit.monin/) et [Ludovic Patey](https://ludovicpatey.com/)">}}
 
 Livre très complet que je viens de commencer, je n'ai donc pas encore le recul nécessaire pour en parler de manière objective.
