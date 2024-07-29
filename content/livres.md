@@ -23,8 +23,7 @@ Cependant, je trouve que le contenu parvient magnifiquement à lier accessibilit
 <br>
 
 {{<book src="les_clefs.jpg" title="***Les clefs pour l'info*** par Ismael Belghiti, [Roger Mansuy](https://www.rogermansuy.fr/) et [Jill-Jênn Vie](https://jjv.ie/)">}}
-
-Livres avec des sujet d'oraux ens/argégations informatiques soigneusement sélectionnés et tous très intéressants. <br>
+Étant en classe préparatoire j'utilise ce livre d'oraux ens informatiques pour m'aider dans la préparation aux concours. Je trouve que les exercice sélectionnés sont pour la plupart très intéressants. <br>
 Les corrections sont très claires et sont enrichies par les remarques des auteurs.
 
 {{</book>}}
