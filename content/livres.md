@@ -9,7 +9,10 @@ Une liste des livres d'informatique ou des maths que j'ai aimé ou que je prevoi
 
 # J'ai lu
 
-{{<book src="types_and_programming.jpg" title="***Types and Programming Languages*** par [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)">}}
+{{<book src="types_and_programming.jpg" title="***Types and Programming Languages*** (TAPL) par [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)">}}
+
+Super livre qui permet de comprendre les fondations théoriques des langages fonctionnels. La difficulté est très progressive, et le livre nous guide dans la programmation d'une implémentation d'un langage fonctionnel, qui évolue au fil des chapitres en y intégrant les concepts rencontrés.
+
 {{</book>}}
 
 
