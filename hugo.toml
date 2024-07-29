@@ -37,12 +37,12 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "about"
-url = "/about"
-
-[[params.menu]]
 name = "livres"
 url = "/livres"
+
+[[params.menu]]
+name = "à propos"
+url = "/a_propos"
 
 # Syntax highligth on code blocks
 [markup]
