@@ -1,5 +1,7 @@
 html {
   scroll-behavior: smooth;
+  scrollbar-color: var(--meta) var(--background);
+  scrollbar-width: thin;
 }
 
 body {
@@ -168,6 +170,11 @@ hr {
   text-wrap: balance;
   margin-bottom: 0;
   margin-top: 0;
+}
+
+.header-title::selection {
+  color: var(--meta);
+  background: var(--background)
 }
 
 .header-title::before {
