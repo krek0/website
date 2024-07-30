@@ -5,9 +5,9 @@ title: "Livres"
 
 **En construction**
 
-Une liste des livres d'informatique ou des maths que j'ai aimé ou que je prevois de lire.
+Mes livres d'informatique (ou de mathématiques) préférés et ceux que je prévois de lire.
 
-# J'ai lu
+# J'ai lu (ou j'ai lu une grande partie)
 
 {{<book src="types_and_programming.jpg" title="***Types and Programming Languages*** (TAPL) par [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)">}}
 
@@ -15,6 +15,15 @@ Super livre qui permet de comprendre les fondations théoriques des langages fon
 
 {{</book>}}
 
+{{<book src="cormen.jpg" title="***Introduction to Algorithms*** (CLRS) par [Thomas H. Cormen](https://www.cs.dartmouth.edu/~thc/), [Charles E. Leiserson](https://people.csail.mit.edu/cel/), [Ronald L. Rivest](http://people.csail.mit.edu/rivest/) et [Clifford Stein](https://www.columbia.edu/~cs2035/)">}}
+
+Une ~~simple~~ « introduction » qui peut servir de référence, de part à la diversité des sujets traités et à la présence de la plupart des algorithmes « classiques ».
+
+Le tout écrit en pseudo-code très clair qui peut être facilement adapté à un langage impératif (et souvant à un langage fonctionnel).
+
+Les solutions aux exercices ne sont pas directement dans le livre mais on en trouve en ligne.
+
+{{</book>}}
 
 # En train de lire
 {{<book src="calculabilite.jpg" title="***Calculabilité*** par [Benoît Monin](https://www.lacl.fr/~benoit.monin/) et [Ludovic Patey](https://ludovicpatey.com/)">}}
@@ -39,8 +48,6 @@ Les corrections sont très claires et sont enrichies par les remarques des auteu
 {{<book src="point_aveugle.jpg" title="***Le Point Aveugle*** par [Jean-Yves Girard](https://girard.perso.math.cnrs.fr/Accueil.html)">}}
 {{</book>}}
 
-{{<book src="cormen.jpg" title="***Introduction to Algorithms*** par [Thomas H. Cormen](https://www.cs.dartmouth.edu/~thc/), [Charles E. Leiserson](https://people.csail.mit.edu/cel/), [Ronald L. Rivest](http://people.csail.mit.edu/rivest/) et [Clifford Stein](https://www.columbia.edu/~cs2035/)">}}
-{{</book>}}
 
 # À lire
 
