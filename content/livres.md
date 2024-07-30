@@ -39,7 +39,7 @@ Les corrections sont très claires et sont enrichies par les remarques des auteu
 {{<book src="point_aveugle.jpg" title="***Le Point Aveugle*** par [Jean-Yves Girard](https://girard.perso.math.cnrs.fr/Accueil.html)">}}
 {{</book>}}
 
-{{<book src="cormen.jpg" title="***Algorithmique*** par [Thomas H. Cormen](https://www.cs.dartmouth.edu/~thc/), [Charles E. Leiserson](https://people.csail.mit.edu/cel/), [Ronald L. Rivest](http://people.csail.mit.edu/rivest/) et [Clifford Stein](https://www.columbia.edu/~cs2035/)">}}
+{{<book src="cormen.jpg" title="***Introduction to Algorithms*** par [Thomas H. Cormen](https://www.cs.dartmouth.edu/~thc/), [Charles E. Leiserson](https://people.csail.mit.edu/cel/), [Ronald L. Rivest](http://people.csail.mit.edu/rivest/) et [Clifford Stein](https://www.columbia.edu/~cs2035/)">}}
 {{</book>}}
 
 # À lire
