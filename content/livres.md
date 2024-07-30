@@ -25,6 +25,14 @@ Les solutions aux exercices ne sont pas directement dans le livre mais on en tro
 
 {{</book>}}
 
+{{<book src="compile.png" title="***Langages de programmation et compilation*** par [Jean-Christophe Filliâtre](https://usr.lmf.cnrs.fr/~jcf/index.fr.html#)">}}
+
+Ce n'est pas un livre mais ce cours m'a permis de m'introduire au fonctionnement des compilateurs fonctionel ou impératifs.
+
+Pour cela il introduit et explique de manière limpide l'analyse lexicale, l'analyse syntaxique, le typage ainsi que d'autres concepts.
+
+{{</book>}}
+
 # En train de lire
 {{<book src="calculabilite.jpg" title="***Calculabilité*** par [Benoît Monin](https://www.lacl.fr/~benoit.monin/) et [Ludovic Patey](https://ludovicpatey.com/)">}}
 
