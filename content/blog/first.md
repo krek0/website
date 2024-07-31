@@ -1,7 +1,7 @@
 ---
 title: "Bienvenue sur mon Blog !"
 date: "2024-07-31"
-summary: "Découvrez mes pensées et projets dans ce blog où je partagerai mes idées et passions."
+summary: "Découvrez mes passions et projets dans ce blog où je partagerai un peu de tout."
 hidePagination: true
 hideBackToTop: true
 ---
