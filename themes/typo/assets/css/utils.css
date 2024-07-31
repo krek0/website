@@ -2,6 +2,11 @@
     display: flex;
 }
 
+.book-img
+{
+    max-width: none;
+}
+
 .bold {
     font-weight: bold;
 }
