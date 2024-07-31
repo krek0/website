@@ -15,11 +15,6 @@ hideHeader = false
 homeIntroContent = """
 # Bonjour, bienvenue sur mon site internet
 Je suis Hadrien Ferlin, un étudiant de 19 ans en classe préparatoire MPI au Lycée Thiers à Marseille.
-# Contacts
-- 📭 Mail [hadrien.ferlin@posteo.net](mailto:hadrien.ferlin@posteo.net)
-
-- 💾 Github [Krek0](https://github.com/krek0)
-
 """
 
 # Lists parameters
@@ -30,6 +25,8 @@ listDateFormat = '2 Jan 2006'
 # Breadcrumbs
 breadcrumbs = false
 
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
 
 # Main menu pages
 [[params.menu]]
@@ -39,6 +36,14 @@ url = "/"
 [[params.menu]]
 name = "livres"
 url = "/livres"
+
+[[params.menu]]
+name = "blog"
+url = "/blog"
+
+[[params.menu]]
+name = "contacts"
+url = "/contacts"
 
 [[params.menu]]
 name = "à propos"

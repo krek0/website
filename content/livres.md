@@ -1,5 +1,7 @@
 ---
 title: "Livres"
+hidePagination: true
+hideBackToTop: false
 ---
 
 
