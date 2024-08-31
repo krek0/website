@@ -28,7 +28,7 @@ Super livre qui permet de comprendre les fondations théoriques des langages fon
   url="https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/"
 >}}
 
-Une ~~simple~~ « introduction » qui peut servir de référence, de part à la diversité des sujets traités et à la présence de la plupart des algorithmes « classiques ».
+Une « introduction » qui peut servir de référence, de part à la diversité des sujets traités et à la présence de la plupart des algorithmes « classiques ».
 
 Le tout écrit en pseudo-code très clair qui peut être facilement adapté à un langage impératif (et souvant à un langage fonctionnel).
 
@@ -68,7 +68,7 @@ Cependant, je trouve que le contenu parvient magnifiquement à lier accessibilit
   title="***Les clefs pour l'info*** par Ismael Belghiti, [Roger Mansuy](https://www.rogermansuy.fr/) et [Jill-Jênn Vie](https://jjv.ie/)"
 >}}
 
-Étant en classe préparatoire j'utilise ce livre d'oraux ens informatiques pour m'aider dans la préparation aux concours. Je trouve que les exercice sélectionnés sont pour la plupart très intéressants. <br>
+Des oraux d'informatiques pertinents, la difficulté varie beaucoup d'un sujet à l'autre.
 Les corrections sont très claires et sont enrichies par les remarques des auteurs.
 
 {{</book>}}
