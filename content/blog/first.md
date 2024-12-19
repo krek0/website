@@ -1,13 +1,13 @@
 ---
 title: "Bienvenue sur mon Blog !"
 date: "2024-07-31"
-summary: "Découvrez mes passions et projets dans ce blog où je partagerai un peu de tout."
+summary: "Un blog ou (un jour peut être) je parle de ce qui me passe par la tête."
 hidePagination: true
 hideBackToTop: true
 ---
 
 ## Salut et bienvenue !
 
-Je suis ravi de vous accueillir sur mon blog. Ici, je partagerai ce qui me passionne, mes projets, et d'autres choses qui me passeront par la tête.
+Salut, content de vous retrouvez sur mon blog qui me servira de partager à peut prés n'importe quoi.
 
-Merci de votre visite et à très bientôt !
+Merci de votre visite !

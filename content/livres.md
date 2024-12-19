@@ -4,12 +4,9 @@ hidePagination: true
 hideBackToTop: false
 ---
 
+Des livres que j'ai bien aimé ou que je prévois de lire (quand j'aurais la motivation et le temps).
 
-**En construction**
-
-Mes livres d'informatique (ou de mathématiques) préférés et ceux que je prévois de lire.
-
-# J'ai lu (ou j'ai lu une grande partie)
+# J'ai lu 
 
 {{<book
   src="types_and_programming.jpg"
@@ -17,7 +14,10 @@ Mes livres d'informatique (ou de mathématiques) préférés et ceux que je pré
   url="https://www.cis.upenn.edu/~bcpierce/tapl/"
 >}}
 
-Super livre qui permet de comprendre les fondations théoriques des langages fonctionnels. La difficulté est très progressive, et le livre nous guide dans la programmation d'une implémentation d'un langage fonctionnel, qui évolue au fil des chapitres en y intégrant les concepts rencontrés.
+Super bouquin qui explique les langages fonctionels en partant de rien.
+
+La difficulté est très progressive, et le livre nous guide dans l'implémentation d'un langage fonctionnel, qui évolue au fil des chapitres en y intégrant les concepts rencontrés.
+
 
 {{</book>}}
 
@@ -28,7 +28,7 @@ Super livre qui permet de comprendre les fondations théoriques des langages fon
   url="https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/"
 >}}
 
-Une « introduction » qui peut servir de référence, de part à la diversité des sujets traités et à la présence de la plupart des algorithmes « classiques ».
+Une « introduction » aux algorithmes trés exaustive, on y trouve la plus part des algortihmes classiques dans de nombreux domaines.
 
 Le tout écrit en pseudo-code très clair qui peut être facilement adapté à un langage impératif (et souvant à un langage fonctionnel).
 
@@ -36,7 +36,7 @@ Les solutions aux exercices ne sont pas directement dans le livre mais on en tro
 
 {{</book>}}
 
-
+<!--
 {{<book
   src="compile.png"
   title="***Langages de programmation et compilation*** par [Jean-Christophe Filliâtre](https://usr.lmf.cnrs.fr/~jcf/index.fr.html#)"
@@ -48,17 +48,28 @@ Ce n'est pas un livre mais ce cours m'a permis de m'introduire au fonctionnement
 Pour cela il introduit et explique de manière limpide l'analyse lexicale, l'analyse syntaxique, le typage ainsi que d'autres concepts.
 
 {{</book>}}
+!-->
 
-# En train de lire
+# En pleine lecture
+{{<book
+  src="interpreters.jpg"
+  title="***Crafting interpreters*** par [Robert Nystrom](https://journal.stuffwithstuff.com/)"
+  url="https://craftinginterpreters.com/"
+>}}
+
+Dans le but de coder un interpeteur du C je suis en train de dévorer ce livre, qui pour l'instant répond à mes questions.
+
+{{</book>}}
+
 {{<book
   src="calculabilite.jpg"
   title="***Calculabilité*** par [Benoît Monin](https://www.lacl.fr/~benoit.monin/) et [Ludovic Patey](https://ludovicpatey.com/)"
   url="https://www.lacl.fr/~benoit.monin/book.html"
 >}}
 
-Livre très complet que je viens de commencer, je n'ai donc pas encore le recul nécessaire pour en parler de manière objective.
+Un livre qui parle (comme son nom l'indique) de calculabilité.
 
-Cependant, je trouve que le contenu parvient magnifiquement à lier accessibilité et rigueur. Le tout ponctué d'exercices corrigés qui selon la difficulté permettent de mettre en application les concepts tout en vérifiant la compréhension ou de se casser la tête sur des exercices compliqués.
+Les exercices (avec correction) vont de la simple application à des exercices casses têtes qui permettent de se casser la tête.
 
 {{</book>}}
 
@@ -68,8 +79,7 @@ Cependant, je trouve que le contenu parvient magnifiquement à lier accessibilit
   title="***Les clefs pour l'info*** par Ismael Belghiti, [Roger Mansuy](https://www.rogermansuy.fr/) et [Jill-Jênn Vie](https://jjv.ie/)"
 >}}
 
-Des oraux d'informatiques pertinents, la difficulté varie beaucoup d'un sujet à l'autre.
-Les corrections sont très claires et sont enrichies par les remarques des auteurs.
+Des beaux exercices d'informatiques, la difficulté varie beaucoup et les corrections, très claires, sont enrichies de remarques toujours intéressantes.
 
 {{</book>}}
 

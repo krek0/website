@@ -13,8 +13,10 @@ hideHeader = false
 
 # Intro on main page, content is markdown
 homeIntroContent = """
-# Bonjour, bienvenue sur mon site internet
-Je suis Hadrien Ferlin, un étudiant de 19 ans en classe préparatoire MPI au Lycée Thiers à Marseille.
+# Salut
+Content de te voir sur mon incroyable site.
+
+Moi c'est Hadrien Ferlin, en ce moment je suis en MPI au Lycée Thiers à Marseille.
 """
 
 # Lists parameters
