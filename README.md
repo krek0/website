@@ -11,3 +11,4 @@ My personal website source, built with hugo.
   
 
 The following contents are licensed under CC BY-NC-ND:
+  - Nothing for the moment
